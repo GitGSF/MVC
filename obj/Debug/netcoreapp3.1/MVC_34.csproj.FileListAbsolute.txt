@@ -1,0 +1,13 @@
+C:\Users\Dark_Cheedar\Desktop\MVC_34\bin\Debug\netcoreapp3.1\MVC_34.exe
+C:\Users\Dark_Cheedar\Desktop\MVC_34\bin\Debug\netcoreapp3.1\MVC_34.deps.json
+C:\Users\Dark_Cheedar\Desktop\MVC_34\bin\Debug\netcoreapp3.1\MVC_34.runtimeconfig.json
+C:\Users\Dark_Cheedar\Desktop\MVC_34\bin\Debug\netcoreapp3.1\MVC_34.runtimeconfig.dev.json
+C:\Users\Dark_Cheedar\Desktop\MVC_34\bin\Debug\netcoreapp3.1\MVC_34.dll
+C:\Users\Dark_Cheedar\Desktop\MVC_34\bin\Debug\netcoreapp3.1\MVC_34.pdb
+C:\Users\Dark_Cheedar\Desktop\MVC_34\obj\Debug\netcoreapp3.1\MVC_34.csprojAssemblyReference.cache
+C:\Users\Dark_Cheedar\Desktop\MVC_34\obj\Debug\netcoreapp3.1\MVC_34.AssemblyInfoInputs.cache
+C:\Users\Dark_Cheedar\Desktop\MVC_34\obj\Debug\netcoreapp3.1\MVC_34.AssemblyInfo.cs
+C:\Users\Dark_Cheedar\Desktop\MVC_34\obj\Debug\netcoreapp3.1\MVC_34.csproj.CoreCompileInputs.cache
+C:\Users\Dark_Cheedar\Desktop\MVC_34\obj\Debug\netcoreapp3.1\MVC_34.dll
+C:\Users\Dark_Cheedar\Desktop\MVC_34\obj\Debug\netcoreapp3.1\MVC_34.pdb
+C:\Users\Dark_Cheedar\Desktop\MVC_34\obj\Debug\netcoreapp3.1\MVC_34.genruntimeconfig.cache
